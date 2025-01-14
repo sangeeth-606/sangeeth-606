@@ -25,11 +25,6 @@
 
 
 
-# Stats:
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sangeeth-606&theme=dark&hide_border=false)<br/>
-
 
 
 ---
